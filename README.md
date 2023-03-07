@@ -1,4 +1,6 @@
-### Hi there 👋
+### potatos r slay
+
+<img src='/imgs/a_cloud.gif' style="width:200px;height:200px" alt="Potato Angelyne">
 
 <!--
 **atran02/atran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
