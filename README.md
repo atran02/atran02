@@ -5,10 +5,16 @@
 ## Hi, I'm Angelyne
 I'm an aspiring UI/UX designer with a passion for games and design. Being someone who is actively exploring creative solutions, I’m excited to experience future design ideas and explore new trends.
 
-### Links
+### 🔗 Links
 <!-- [My UI/UX portfolio](http://angelynetran.com/) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelyne-tran-b75857245/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelyne-tran-b75857245/)-->
 
+ 🎨[UI/UX Portfolio](mailto:angelynentran@gmail.com)
+ </br>
+ 👩‍💼[LinkedIn](https://www.linkedin.com/in/angelyne-tran-b75857245/)
+ </br>
+ 💌[angelynentran@gmail.com](mailto:angelynentran@gmail.com)
+  
 ### 🧩 Design Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
@@ -26,9 +32,9 @@ I'm an aspiring UI/UX designer with a passion for games and design. Being someon
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) 
 
-<!-- 
+
 ![](https://github-readme-stats.vercel.app/api?username=atran02&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atran02&theme=blueberry&hide_border=true)<br/> 
+<!--  ![](https://github-readme-streak-stats.herokuapp.com/?user=atran02&theme=blueberry&hide_border=true)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atran02&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
 
