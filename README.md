@@ -9,7 +9,7 @@ I'm an aspiring UI/UX designer with a passion for games and design. Being someon
 <!-- [My UI/UX portfolio](http://angelynetran.com/) -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelyne-tran-b75857245/)-->
 
- 🎨[UI/UX Portfolio](mailto:angelynentran@gmail.com)
+ 🎨[UI/UX Portfolio](http://angelynetran.com/)
  </br>
  👩‍💼[LinkedIn](https://www.linkedin.com/in/angelyne-tran-b75857245/)
  </br>
